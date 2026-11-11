@@ -16,7 +16,7 @@ IT Direktor Toomas Kask ei usalda klientide andmebaasis ehk customers tabelis ol
 
 ##  Projekti struktuur ja käivitamine
 - `N01 Grupitöö Roll B.sql` – SQL päringud andmete analüüsiks
-- `results.md` – Päringu tulemuste väljavõte
+- `Results.md` – Päringu tulemuste väljavõte
 
 ##  AI kasutamise reflektsioon
 Kasutasin AI-d (ChatGPT) initcap ja lower funktsioonide õppimiseks, et anda korrektset ülevadet linnade kohta
