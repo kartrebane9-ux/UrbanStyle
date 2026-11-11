@@ -58,3 +58,19 @@
 | Kliendid kokku | Kliendid e-mailiga | Unikaalsed e-mailid | Kliendid e-mailita | Duplikaadid | Duplikaadid ja ilma e-mailita |
 | -------------- | ------------------ | ------------------- | ------------------ | ----------- | ----------------------------- |
 | 3150 / 100%    | 2770 / 87%         | 2640 / 83%          | 380 / 12%          | 130 / 4%    | 510 / 16%                     |
+
+## Kliendibaas
+*Esimene kanne oli tehtud 02.01.2020 ja viimane - 27.02.2025*
+| Vanim klient | Uusim klient |
+| ------------ | ------------ |
+| 2020-01-02   | 2025-02-27   |
+
+*Klientide arv aastate lõikes on kasvanud vaikselt aga pidevalt*
+| Aasta | Kliendid |
+| ----- | -------- |
+| 2020  | 574      |
+| 2021  | 598      |
+| 2022  | 618      |
+| 2023  | 622      |
+| 2024  | 630      |
+| 2025  | 108      |
