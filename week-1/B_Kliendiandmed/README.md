@@ -19,4 +19,4 @@ IT Direktor Toomas Kask ei usalda klientide andmebaasis ehk customers tabelis ol
 - `Results.md` – Päringu tulemuste väljavõte
 
 ##  AI kasutamise reflektsioon
-Kasutasin AI-d (ChatGPT) initcap ja lower funktsioonide õppimiseks, et anda korrektset ülevadet linnade kohta
+Kasutasin AI-d (ChatGPT) concat ja round funktsioonide õppimiseks, et anda korrektset ülevadet linnade kohta
