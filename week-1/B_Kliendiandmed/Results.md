@@ -1,11 +1,11 @@
 # Results
 
 ## Tabeli struktuur
-*Veerud* - 9
+*Tabelis on 9 veergu*
 | customer_id | first_name | last_name | email  | phone | city | registration_date | loyalty_tier | birth_year |
 | ----------- | ---------- | --------- | ------ | ----- | ---- | ----------------- | ------------ | ---------- |
 
-*Read* - 3150
+*ja 3150 rida*
 | Klientide arv |
 | :-----------: |
 | 3150          |
