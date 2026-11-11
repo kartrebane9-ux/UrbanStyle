@@ -11,7 +11,7 @@ IT Direktor Toomas Kask ei usalda klientide andmebaasis ehk customers tabelis ol
 ##  Peamised järeldused (Insights)
 - **Tulemus 1:** Customers tabelis on 3150 rida ja 9 veergu
 - **Tulemus 2:** Kliendid määrasid 54 erinevat linnade varianti, kuid tegelikult oli linnu 12.
-- **Tulemus 3:** Tallinnas on  1238 klienti (39,3%), Tartus - 658 (20,9%), Pärnus - 346 (11%), veel kolmes linnas on üle 100 klienti, ülejäänud on alla 100 (alla 3,5%).
+- **Tulemus 3:** Tallinnas on  1238 klienti (39,3%), Tartus - 658 (20,9%), Pärnus - 346 (11%), Narvas - 177 (5,6%), ülejäänud linnades on alla 5%.
 - **Tulemus 4:** Andmebaasis on 2640 unikaalset e-maili (83%), 380 klienti ilma e-mailita (12%) ja 130 (4%) e-maili duplikaati.
 
 ##  Projekti struktuur ja käivitamine
