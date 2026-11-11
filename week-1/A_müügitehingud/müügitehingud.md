@@ -80,3 +80,64 @@ Tulemus: Tuvastati kokku 305 tehingut, mille summa on 0€ või negatiivne.
 Tulemus: Üle 500€ tehinguidi oli andmebaasis kokku 2499. 
 Äririsk Toomasele: Mõõdab suurostude osakaalu kogukäibest. Kui duplikaatide hulgas on ka suuroste, on finantsrisk ettevõtte käibeülevaatele veelgi suurem. 
 
+-- Mitu rida on sales tabelis kokku?
+
+| ridade_arv |
+| ---------- |
+| 15234      |
+
+Tulemus: Müügitabelis on ridade koguarv 15234. 
+Äririsk Toomasele: LISADA
+
+-- Millised veerud ja andmetüübid tabelis on (Esimesed 10 rida)
+
+| id    | sale_id | invoice_id       | sale_date              | customer_id | product_id | quantity | unit_price | total_price | channel | store_location | payment_method |
+| ----- | ------- | ---------------- | ---------------------- | ----------- | ---------- | -------- | ---------- | ----------- | ------- | -------------- | -------------- |
+| 10905 | 1       | INV-202301-00001 | 2023-01-10 00:00:00+00 | 2588        | 1274       | 2        | 234.79     | 469.58      | pood    | Tallinn        | kaart          |
+| 10906 | 2       | INV-202301-00002 | 2023-01-16 00:00:00+00 | 4338        | 1207       | 2        | 241.13     | 482.26      | pood    | Pärnu          | järelmaks      |
+| 10907 | 3       | INV-202301-00003 | 2023-01-05 00:00:00+00 | 4673        | 1264       | 1        | 258.46     | 221.19      | pood    | Pärnu          | järelmaks      |
+| 10908 | 4       | INV-202301-00004 | 2023-01-02 00:00:00+00 | 4677        | 1341       | 3        | 45.21      | 135.63      | pood    | Tartu          | sularaha       |
+| 10909 | 5       | INV-202301-00005 | 2023-01-13 00:00:00+00 | 2390        | 1284       | 1        | 99.57      | 99.57       | pood    | Tartu          | kaart          |
+| 10910 | 6       | INV-202301-00006 | 2023-01-28 00:00:00+00 | 4536        | 1338       | 1        | 282.29     | 282.29      | pood    | Tartu          | järelmaks      |
+| 10911 | 7       | INV-202301-00007 | 2023-01-13 00:00:00+00 | 2029        | 1001       | 4        | 157.49     | 629.96      | pood    | Tartu          | järelmaks      |
+| 10912 | 8       | INV-202301-00008 | 2023-01-23 00:00:00+00 | 4097        | 1100       | 2        | 126.42     | 252.84      | online  | null           | kaart          |
+| 10913 | 9       | INV-202301-00009 | 2023-01-07 00:00:00+00 | 3308        | 1202       | 1        | 22.04      | 22.04       | pood    | Tallinn        | sularaha       |
+| 10914 | 10      | INV-202301-00010 | 2023-01-08 00:00:00+00 | 2809        | 1083       | 1        | 72.14      | 72.14       | pood    | Tallinn        | sularaha       |
+
+Tulemus: LISADA 
+Äririsk Toomasele: LISADA
+
+--Tallinna kaupluse müügid (uuemad enne)
+
+| id    | sale_id | invoice_id       | sale_date              | customer_id | product_id | quantity | unit_price | total_price | channel | store_location | payment_method |
+| ----- | ------- | ---------------- | ---------------------- | ----------- | ---------- | -------- | ---------- | ----------- | ------- | -------------- | -------------- |
+| 15291 | 4387    | INV-202401-00095 | 2026-06-28 00:00:00+00 | 2739        | 1258       | 3        | 84.41      | 253.23      | pood    | Tallinn        | järelmaks      |
+| 14471 | 3567    | INV-202311-00062 | 2026-06-27 00:00:00+00 | null        | 1198       | 2        | 291.72     | 583.44      | pood    | Tallinn        | kaart          |
+| 16513 | 5609    | INV-202404-00255 | 2026-05-18 00:00:00+00 | 3279        | 1313       | 1        | 77.60      | 77.60       | pood    | Tallinn        | kaart          |
+| 19514 | 8610    | INV-202411-00111 | 2026-04-26 00:00:00+00 | 4450        | 1217       | 3        | 34.04      | 102.12      | pood    | Tallinn        | järelmaks      |
+| 25687 | 7057    | INV-202407-00366 | 2026-03-21 00:00:00+00 | 2221        | 1258       | 2        | 84.41      | 168.82      | pood    | Tallinn        | järelmaks      |
+| 21254 | 4758    | INV-202402-00151 | 2026-03-20 00:00:00+00 | 3130        | 1224       | 1        | 222.10     | 222.10      | pood    | Tallinn        | sularaha       |
+| 25596 | 7724    | INV-202409-00011 | 2026-03-18 00:00:00+00 | 4178        | 1274       | 1        | 234.79     | 234.79      | pood    | Tallinn        | kaart          |
+| 11838 | 934     | INV-202304-00051 | 2026-03-17 00:00:00+00 | 4113        | 1082       | 3        | 100.93     | 302.79      | pood    | Tallinn        | kaart          |
+| 23357 | 5802    | INV-202405-00035 | 2026-03-05 00:00:00+00 | 2619        | 1276       | 2        | 187.16     | 374.32      | pood    | Tallinn        | järelmaks      |
+| 25006 | 8835    | INV-202411-00336 | 2026-01-25 00:00:00+00 | null        | 1092       | 3        | 144.20     | 432.60      | pood    | Tallinn        | kaart          |
+| 23207 | 3816    | INV-202311-00311 | 2026-01-17 00:00:00+00 | 4404        | 1107       | 1        | 279.43     | 279.43      | pood    | Tallinn        | sularaha       |
+| 14499 | 3595    | INV-202311-00090 | 2026-01-01 00:00:00+00 | 2997        | 1298       | 1        | 163.53     | 163.53      | pood    | Tallinn        | sularaha       |
+| 15424 | 4520    | INV-202401-00228 | 2025-12-20 00:00:00+00 | null        | 1296       | 1        | 301.97     | 301.97      | pood    | Tallinn        | kaart          |
+| 11180 | 276     | INV-202302-00015 | 2025-12-14 00:00:00+00 | 2221        | 1316       | 1        | 296.58     | 296.58      | pood    | Tallinn        | kaart          |
+| 24937 | 4963    | INV-202403-00022 | 2025-12-10 00:00:00+00 | 4534        | 1095       | 4        | 140.64     | 562.56      | pood    | Tallinn        | järelmaks      |
+
+Tulemus: LISADA
+Äririsk Toomasele: LISADA
+
+-- Puuduvate kliendi id-de loendus (null-väärtused)
+
+| puuduv_klient |
+| ------------- |
+| 1487          |
+
+Tulemus: LISADA
+Äririsk Toomasele: LISADA
+
+
+
