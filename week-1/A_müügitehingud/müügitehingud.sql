@@ -55,4 +55,26 @@ select count(*) as suured_muugid
 from sales
 where total_price > 500;
 
+-- Mitu rida on sales tabelis kokku?
 
+select count(*) as ridade_arv
+from sales;
+
+-- Millised veerud ja andmetüübid tabelis on (Esimesed 10 rida)
+
+select *
+from sales
+limit 10;
+
+--Tallinna kaupluse müügid (uuemad enne)
+
+select *
+from sales
+where store_location = 'Tallinn'
+order by sale_date desc
+limit 15;
+
+-- Puuduvate kliendi id-de loendus (null-väärtused)
+
+select count(*) - count(customer_id) as puuduv_klient
+from sales;
