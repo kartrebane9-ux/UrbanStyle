@@ -12,7 +12,7 @@
 
 ## Linnade analüüs
 *Tabelis on 54 linnade varianti, mis vastab 12 linnale*
-|  Esialgseid Linnu | Korrigeritud linnu |
+|  Esialgseid linnu | Korrigeritud linnu |
 | :---------------: | :----------------: |
 | 54                | 12                 |
 
