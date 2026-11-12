@@ -21,6 +21,11 @@
 | :------------: | :----------------: | :-----------------: | :----------------: | :---------: | :---------------------------: |
 | 3150           | 2770 / 87%         | 2640 / 83%          | 380 / 12%          | 130 / 4%    | 510 / 16%                     |
 
+*Customer tabelis on 3000 unikaalset telefoni numbrit ja 150 duplikaati. Kliente ilma numbrita ei ole.
+| Kliendid kokku | Kliendid numbriga | Unikaalsed numbrid | Kliendid numbrita | Duplikaadid | Duplikaadid ja ilma numbrita |
+| :------------: | :---------------: | :----------------: | :---------------: | :---------: | :--------------------------: |
+| 3150           | 3150 / 100%       | 3000 / 95%         | 0 / 0%            | 150 / 4%    | 150 / 4%                     |
+
 ## Kliendibaas
 *Esimene kanne oli tehtud 02.01.2020 ja viimane - 27.02.2025*
 | Vanim klient | Uusim klient |
