@@ -21,8 +21,8 @@ IT Direktor Toomas Kask ei usalda klientide andmebaasis ehk customers tabelis ol
 - **Soovitus 2:** 380 kliendile ei saa turundusmaterjale saata ning 130 ja 150 klienti saavad potentsiaalselt materjali topelt vastavalt e-mailide ja sõnumite teel, mis võib põhjustada rahulolematust ja reklaamimaterjaalidest loobumist. Tuleb eemaldada e-mailide ja telefonide duplikaate turunduslistist ning stimuleerida e-mailide ja telefonide küsimist e-poes ja kassas ostu sooritamisel.
 
 ##  Projekti struktuur ja käivitamine
-- `N01 Grupitöö Roll B.sql` – SQL päringud andmete analüüsiks
-- `Results.md` – Päringu tulemuste väljavõte
+- `N01_Roll_B_Grupitöö.sql` – SQL päringud andmete analüüsiks
+- `N01_Roll_B_Results.md` – Päringu tulemuste väljavõte
 
 ##  AI kasutamise reflektsioon
 Kasutasin AI-d (ChatGPT) concat ja round funktsioonide õppimiseks, et anda korrektset ülevadet linnade kohta
