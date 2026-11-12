@@ -19,12 +19,12 @@
 *Customer tabelis on 2640 unikaalset e-maili, 380 klienti ilma e-mailita ja 130 duplikaati
 | Kliendid kokku | Kliendid e-mailiga | Unikaalsed e-mailid | Kliendid e-mailita | Duplikaadid | Duplikaadid ja ilma e-mailita |
 | :------------: | :----------------: | :-----------------: | :----------------: | :---------: | :---------------------------: |
-| 3150           | 2770 / 87%         | 2640 / 83%          | 380 / 12%          | 130 / 4%    | 510 / 16%                     |
+| 3150           | 2770 / 88%         | 2640 / 84%          | 380 / 12%          | 130 / 4%    | 510 / 16%                     |
 
 *Customer tabelis on 3000 unikaalset telefoni numbrit ja 150 duplikaati. Kliente ilma numbrita ei ole.
 | Kliendid kokku | Kliendid numbriga | Unikaalsed numbrid | Kliendid numbrita | Duplikaadid | Duplikaadid ja ilma numbrita |
 | :------------: | :---------------: | :----------------: | :---------------: | :---------: | :--------------------------: |
-| 3150           | 3150 / 100%       | 3000 / 95%         | 0 / 0%            | 150 / 4%    | 150 / 4%                     |
+| 3150           | 3150 / 100%       | 3000 / 95%         | 0 / 0%            | 150 / 5%    | 150 / 5%                     |
 
 ## Kliendibaas
 *Esimene kanne oli tehtud 02.01.2020 ja viimane - 27.02.2025*
