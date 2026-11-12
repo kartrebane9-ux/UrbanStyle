@@ -9,10 +9,10 @@ IT Direktor Toomas Kask ei usalda klientide andmebaasis ehk customers tabelis ol
 - **Tööriistad:** GitHub
 
 ##  Peamised tulemused
-- **Tulemus 1:** Customers tabelis on 3150 rida ja 9 veergu
-- **Tulemus 2:** Kliendid määrasid 54 erinevat linnade varianti, kuid tegelikult oli linnu 12.
-- **Tulemus 3:** Kõige rohkem kliente on Tallinnas (1238 ja 39,3% klientide arvust), kuid kõige kõrgem klienditasemega klientide osakaal on Võrus (67,9% klientidest on klienditasemega)
-- **Tulemus 4:** Andmebaasis on 2640 unikaalset e-maili (83%), 380 klienti ilma e-mailita (12%) ja 130 (4%) e-maili duplikaati.
+- **Tulemus 1:** Customers tabelis on 3150 rida ja 9 veergu. Esimene kanne oli tehtud 02.01.2020 ja viimane - 27.02.2025
+- **Tulemus 2:** Andmebaasis kaks veergu puuduva ehk NULL väärtustega. Need on klienditase (põhjustatud pigem ostukäitumisega) ja  on 2640 unikaalset e-maili (83%), 380 klienti ilma e-mailita (12%) ja 130 (4%) e-maili duplikaati.
+- **Tulemus 3:** Kliendid määrasid 54 erinevat linnade varianti, kuid tegelikult oli linnu 12.
+  - **Tulemus 3.1:** Kõige rohkem kliente on Tallinnas (1238 ja 39,3% klientide arvust), kuid kõige kõrgem klienditasemega klientide osakaal on Võrus (67,9% klientidest on klienditasemega)
 
 ##  Peamised järeldused ja soovitused
 - **Soovitus 1:** Customers tabelis on 42 linnade valikut, mis erinevad õigest. Soovitus on määrata e-poes linnade standartvalikut, et andmed oleks ühtlased.
