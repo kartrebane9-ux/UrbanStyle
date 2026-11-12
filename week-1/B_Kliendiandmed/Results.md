@@ -19,7 +19,7 @@
 *Customer tabelis on 2640 unikaalset e-maili, 380 klienti ilma e-mailita ja 130 duplikaati
 | Kliendid kokku | Kliendid e-mailiga | Unikaalsed e-mailid | Kliendid e-mailita | Duplikaadid | Duplikaadid ja ilma e-mailita |
 | :------------: | :----------------: | :-----------------: | :----------------: | :---------: | :---------------------------: |
-| 3150 / 100%    | 2770 / 87%         | 2640 / 83%          | 380 / 12%          | 130 / 4%    | 510 / 16%                     |
+| 3150           | 2770 / 87%         | 2640 / 83%          | 380 / 12%          | 130 / 4%    | 510 / 16%                     |
 
 ## Kliendibaas
 *Esimene kanne oli tehtud 02.01.2020 ja viimane - 27.02.2025*
