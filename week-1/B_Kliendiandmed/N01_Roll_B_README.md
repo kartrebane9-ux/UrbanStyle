@@ -17,7 +17,7 @@ IT Direktor Toomas Kask ei usalda klientide andmebaasis ehk customers tabelis ol
   - **Tulemus 3.1:** Kõige rohkem kliente on Tallinnas (1238 ja 39,3% klientide arvust), kuid kõige kõrgem klienditasemega klientide osakaal on Võrus (67,9% klientidest on klienditasemega) ja kõige kõrgem golden klientide osakaal on Narvas (21,5%) ja Viljandis (21,4%).
 
 ##  Peamised järeldused ja soovitused
-- **Soovitus 1:** Customers tabelis on 42 linnade valikut, mis erinevad õigest. Soovitus on määrata e-poes linnade standartvalikut, et andmed oleks ühtlased.
+- **Soovitus 1:** Customers tabelis on 42 linnade valikut, mis erinevad õigest. Soovitus on määrata e-poes peamiste linnade standartvalikut, et andmed oleks ühtlased.
 - **Soovitus 2:** 380 kliendile ei saa turundusmaterjale saata ning 130 ja 150 klienti saavad potentsiaalselt materjali topelt vastavalt e-mailide ja sõnumite teel, mis võib põhjustada rahulolematust ja reklaamimaterjaalidest loobumist. Tuleb eemaldada e-mailide ja telefonide duplikaate turunduslistist ning stimuleerida e-mailide ja telefonide küsimist e-poes ja kassas ostu sooritamisel.
 
 ##  Projekti struktuur ja käivitamine
