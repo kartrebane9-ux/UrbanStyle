@@ -9,8 +9,10 @@ IT Direktor Toomas Kask ei usalda klientide andmebaasis ehk customers tabelis ol
 - **Tööriistad:** GitHub
 
 ##  Peamised tulemused
-- **Tulemus 1:** Customers tabelis on 3150 rida ja 9 veergu. Esimene kanne oli tehtud 02.01.2020 ja viimane - 27.02.2025
-- **Tulemus 2:** Andmebaasis kaks veergu puuduva ehk NULL väärtustega. Need on klienditase (põhjustatud pigem ostukäitumisega) ja  on 2640 unikaalset e-maili (83%), 380 klienti ilma e-mailita (12%) ja 130 (4%) e-maili duplikaati.
+- **Tulemus 1:** Customers tabelis on 3150 rida ja 9 veergu. Esimene kanne oli tehtud 02.01.2020 ja viimane - 27.02.2025.
+  - **Tulemus 1.1:** Kliendibaas kasvab iga aastaga (vahemikkus 2020-2024, 2025 täisaastat veel ei ole).
+- **Tulemus 2:** On olemas kaks veergu puuduva ehk NULL väärtustega. Need on klienditase (põhjustatud pigem ostukäitumisega) ja e-mailid. Duplikaadid on ka veerus telefoninumbritega.
+  -  **Tulemus 2.1:** Customer tabelis on 2640 unikaalset e-maili (83%), 380 klienti ilma e-mailita (12%) ja 130 (4%) e-maili duplikaati. Seal on ka 3000 unikaalset 
 - **Tulemus 3:** Kliendid määrasid 54 erinevat linnade varianti, kuid tegelikult oli linnu 12.
   - **Tulemus 3.1:** Kõige rohkem kliente on Tallinnas (1238 ja 39,3% klientide arvust), kuid kõige kõrgem klienditasemega klientide osakaal on Võrus (67,9% klientidest on klienditasemega)
 
